@@ -1,0 +1,35 @@
+body {
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    text-align: right;
+    opacity: 0.2;
+}
+
+h2 {
+    color: white;
+    opacity: 0.2;
+}
+
+.btn {
+    opacity: 0.2;
+}
+
+.characters {
+    width: 60px;
+}
+
+.charcter-section {
+    height: 140px;
+}
+
+p {
+    color: white;
+}
